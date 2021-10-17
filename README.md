@@ -1,2 +1,2 @@
-# GODEL-PROTOCOL
-Incompleteness theorems are the only truly secure cryptographic protocols in mathematics.
+# GÖDEL-PROTOCOL
+Incompleteness theorems are the only truly secure cryptographic protocols in the entire embodiment of mathematics.
